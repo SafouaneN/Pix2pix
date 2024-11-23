@@ -58,7 +58,7 @@ bash install_requirements.sh
 This project was developed at **TU Berlin**, in the **Machine Learning Group**, by the following contributors:
 
 - **Iyadh Ben Cheikh El Arbi**
-- **Maroua Goghr**
+- **Maroua Doghri**
 - **Safouane Nciri**
 
 Special thanks to the creators of the [Pix2Pix Dataset](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset/data?select=maps) on Kaggle.
